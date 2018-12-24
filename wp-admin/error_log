@@ -1,0 +1,159 @@
+[09-Jun-2017 07:15:52 UTC] PHP Fatal error:  Call to undefined function apply_filters() in /home/moktarul/public_html/razorbee.com/wp-includes/load.php on line 316
+[10-Jun-2017 08:46:33 UTC] PHP Warning:  sprintf(): Too few arguments in /home/moktarul/public_html/razorbee.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[10-Jun-2017 08:46:34 UTC] PHP Warning:  sprintf(): Too few arguments in /home/moktarul/public_html/razorbee.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[10-Jun-2017 08:46:35 UTC] PHP Warning:  sprintf(): Too few arguments in /home/moktarul/public_html/razorbee.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[10-Jun-2017 08:46:35 UTC] PHP Warning:  sprintf(): Too few arguments in /home/moktarul/public_html/razorbee.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[10-Jun-2017 08:46:35 UTC] PHP Warning:  sprintf(): Too few arguments in /home/moktarul/public_html/razorbee.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[10-Jun-2017 08:46:35 UTC] PHP Warning:  sprintf(): Too few arguments in /home/moktarul/public_html/razorbee.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[10-Jun-2017 08:46:35 UTC] PHP Warning:  sprintf(): Too few arguments in /home/moktarul/public_html/razorbee.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[10-Jun-2017 08:48:07 UTC] PHP Warning:  Error while sending QUERY packet. PID=804963 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 08:48:08 UTC] PHP Warning:  sprintf(): Too few arguments in /home/moktarul/public_html/razorbee.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[10-Jun-2017 08:48:09 UTC] PHP Warning:  sprintf(): Too few arguments in /home/moktarul/public_html/razorbee.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[10-Jun-2017 08:48:09 UTC] PHP Warning:  sprintf(): Too few arguments in /home/moktarul/public_html/razorbee.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[10-Jun-2017 08:48:10 UTC] PHP Warning:  sprintf(): Too few arguments in /home/moktarul/public_html/razorbee.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[10-Jun-2017 08:48:23 UTC] PHP Warning:  sprintf(): Too few arguments in /home/moktarul/public_html/razorbee.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[10-Jun-2017 08:48:23 UTC] PHP Warning:  sprintf(): Too few arguments in /home/moktarul/public_html/razorbee.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[10-Jun-2017 08:48:23 UTC] PHP Warning:  sprintf(): Too few arguments in /home/moktarul/public_html/razorbee.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[10-Jun-2017 08:48:29 UTC] PHP Warning:  sprintf(): Too few arguments in /home/moktarul/public_html/razorbee.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[10-Jun-2017 08:48:31 UTC] PHP Warning:  Error while sending QUERY packet. PID=804789 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 08:48:31 UTC] PHP Warning:  Error while sending QUERY packet. PID=841470 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 08:48:43 UTC] PHP Warning:  file_put_contents(/home/moktarul/public_html/razorbee.com/wp-content/uploads/userpro/.htaccess): failed to open stream: No such file or directory in /home/moktarul/public_html/razorbee.com/wp-content/plugins/user-pro/functions/api.php on line 2092
+[10-Jun-2017 08:50:18 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/razorbee.com/wp-content/plugins/user-pro/admin/panels/settings.php on line 791
+[10-Jun-2017 08:53:57 UTC] PHP Warning:  Error while sending QUERY packet. PID=841470 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 08:53:57 UTC] PHP Warning:  Error while sending QUERY packet. PID=804789 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 08:55:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=842831 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 08:57:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=852772 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 08:57:36 UTC] PHP Warning:  Error while sending QUERY packet. PID=842846 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 08:59:42 UTC] PHP Warning:  Error while sending QUERY packet. PID=859635 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 08:59:42 UTC] PHP Warning:  Error while sending QUERY packet. PID=852777 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 08:59:42 UTC] PHP Warning:  Error while sending QUERY packet. PID=804954 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:01:50 UTC] PHP Warning:  Error while sending QUERY packet. PID=865162 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:03:12 UTC] PHP Warning:  Error while sending QUERY packet. PID=804789 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:03:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=872032 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:03:51 UTC] PHP Warning:  Error while sending QUERY packet. PID=865147 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:03:56 UTC] PHP Warning:  Error while sending QUERY packet. PID=865206 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:04:01 UTC] PHP Warning:  Error while sending QUERY packet. PID=865343 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:04:01 UTC] PHP Warning:  Error while sending QUERY packet. PID=859631 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:06:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=876947 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:06:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=870609 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:06:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=875901 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:06:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=874582 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:06:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=870644 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:08:45 UTC] PHP Warning:  Error while sending QUERY packet. PID=881301 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:08:45 UTC] PHP Warning:  Error while sending QUERY packet. PID=874570 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:08:45 UTC] PHP Warning:  Error while sending QUERY packet. PID=881206 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:08:49 UTC] PHP Warning:  Error while sending QUERY packet. PID=881275 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:08:49 UTC] PHP Warning:  Error while sending QUERY packet. PID=881205 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:10:16 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moktarul/public_html/razorbee.com/wp-includes/class-wp-image-editor-imagick.php on line 363
+[10-Jun-2017 09:10:16 UTC] PHP Warning:  Error while sending QUERY packet. PID=885872 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:10:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=881550 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:10:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=885877 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:10:57 UTC] PHP Warning:  Error while sending QUERY packet. PID=885940 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:10:57 UTC] PHP Warning:  Error while sending QUERY packet. PID=877232 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:11:02 UTC] PHP Warning:  Error while sending QUERY packet. PID=885858 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:12:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=881550 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:12:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=885872 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:14:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=891632 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:14:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=894839 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:14:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=891646 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:14:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=881276 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:14:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=874843 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:15:58 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moktarul/public_html/razorbee.com/wp-includes/class-wp-image-editor-imagick.php on line 510
+[10-Jun-2017 09:15:58 UTC] PHP Warning:  Error while sending QUERY packet. PID=891645 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:15:59 UTC] PHP Warning:  Error while sending QUERY packet. PID=897803 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:15:59 UTC] PHP Warning:  Error while sending QUERY packet. PID=897777 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:16:00 UTC] PHP Warning:  Error while sending QUERY packet. PID=897782 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:16:38 UTC] PHP Warning:  Error while sending QUERY packet. PID=897787 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:18:04 UTC] PHP Warning:  Error while sending QUERY packet. PID=897802 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:18:04 UTC] PHP Warning:  Error while sending QUERY packet. PID=899050 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:18:10 UTC] PHP Warning:  Error while sending QUERY packet. PID=899077 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:20:13 UTC] PHP Warning:  Error while sending QUERY packet. PID=899077 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:20:13 UTC] PHP Warning:  Error while sending QUERY packet. PID=899054 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:20:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=897777 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:20:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=903626 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:20:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=897803 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:22:23 UTC] PHP Warning:  Error while sending QUERY packet. PID=912126 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:22:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=912076 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:22:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=910175 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:22:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=907381 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:22:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=903625 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:24:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=912121 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:24:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=912117 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:24:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=916865 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:24:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=912072 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:24:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=912116 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:26:42 UTC] PHP Warning:  Error while sending QUERY packet. PID=921673 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:26:42 UTC] PHP Warning:  Error while sending QUERY packet. PID=916901 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:26:42 UTC] PHP Warning:  Error while sending QUERY packet. PID=921674 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:26:45 UTC] PHP Warning:  Error while sending QUERY packet. PID=921866 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:26:46 UTC] PHP Warning:  Error while sending QUERY packet. PID=907376 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:26:50 UTC] PHP Warning:  Error while sending QUERY packet. PID=924655 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:27:46 UTC] PHP Warning:  Error while sending QUERY packet. PID=924656 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:27:46 UTC] PHP Warning:  Error while sending QUERY packet. PID=922011 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:27:46 UTC] PHP Warning:  Error while sending QUERY packet. PID=921997 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:27:46 UTC] PHP Warning:  Error while sending QUERY packet. PID=921655 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:27:46 UTC] PHP Warning:  Error while sending QUERY packet. PID=921998 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:30:22 UTC] PHP Warning:  Error while sending QUERY packet. PID=926876 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:30:22 UTC] PHP Warning:  Error while sending QUERY packet. PID=926873 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:30:22 UTC] PHP Warning:  Error while sending QUERY packet. PID=926860 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:30:22 UTC] PHP Warning:  Error while sending QUERY packet. PID=924662 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:31:56 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moktarul/public_html/razorbee.com/wp-includes/class-wp-image-editor-imagick.php on line 363
+[10-Jun-2017 09:31:57 UTC] PHP Warning:  Error while sending QUERY packet. PID=916887 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:32:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=926832 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:32:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=921642 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:32:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=926759 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:32:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=926803 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:34:08 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moktarul/public_html/razorbee.com/wp-includes/class-wp-image-editor-imagick.php on line 363
+[10-Jun-2017 09:34:08 UTC] PHP Warning:  Error while sending QUERY packet. PID=926396 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:34:09 UTC] PHP Warning:  Error while sending QUERY packet. PID=926874 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:34:42 UTC] PHP Warning:  Error while sending QUERY packet. PID=940467 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:34:46 UTC] PHP Warning:  Error while sending QUERY packet. PID=940648 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:34:51 UTC] PHP Warning:  Error while sending QUERY packet. PID=940649 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:37:10 UTC] PHP Warning:  Error while sending QUERY packet. PID=945687 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:37:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=946906 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:37:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=945647 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:37:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=938194 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:37:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=946700 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 09:37:46 UTC] PHP Warning:  Error while sending QUERY packet. PID=945702 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 15:36:41 UTC] PHP Warning:  Error while sending QUERY packet. PID=392687 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 15:39:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=400593 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 15:39:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=392687 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[10-Jun-2017 15:39:38 UTC] PHP Warning:  Error while sending QUERY packet. PID=405977 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[11-Jun-2017 04:10:01 UTC] PHP Warning:  Error while sending QUERY packet. PID=326530 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[11-Jun-2017 04:12:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=326530 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[11-Jun-2017 04:14:12 UTC] PHP Warning:  Error while sending QUERY packet. PID=326531 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[11-Jun-2017 04:14:16 UTC] PHP Warning:  Error while sending QUERY packet. PID=339417 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[12-Jun-2017 20:05:11 UTC] PHP Warning:  Error while sending QUERY packet. PID=354260 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[12-Jun-2017 20:05:11 UTC] PHP Warning:  Error while sending QUERY packet. PID=305627 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[08-Jul-2017 12:08:06 UTC] PHP Warning:  Error while sending QUERY packet. PID=1002457 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[08-Jul-2017 12:08:06 UTC] PHP Warning:  Error while sending QUERY packet. PID=992286 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[08-Jul-2017 12:08:21 UTC] PHP Warning:  Error while sending QUERY packet. PID=1002780 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[08-Jul-2017 12:08:26 UTC] PHP Warning:  Error while sending QUERY packet. PID=1002809 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[08-Jul-2017 12:08:26 UTC] PHP Warning:  Error while sending QUERY packet. PID=1005066 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[15-Jul-2017 02:02:36 UTC] PHP Warning:  Error while sending QUERY packet. PID=107248 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[15-Jul-2017 02:02:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=106889 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[15-Jul-2017 02:02:43 UTC] PHP Warning:  Error while sending QUERY packet. PID=93044 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[15-Jul-2017 02:03:16 UTC] PHP Warning:  Error while sending QUERY packet. PID=83431 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[15-Jul-2017 02:03:22 UTC] PHP Warning:  Error while sending QUERY packet. PID=108252 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[15-Jul-2017 02:03:24 UTC] PHP Warning:  Error while sending QUERY packet. PID=93058 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[15-Jul-2017 02:03:25 UTC] PHP Warning:  Error while sending QUERY packet. PID=108265 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[15-Jul-2017 02:03:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=108191 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[15-Jul-2017 07:24:38 UTC] PHP Warning:  Error while sending QUERY packet. PID=804510 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[15-Jul-2017 07:25:09 UTC] PHP Warning:  Error while sending QUERY packet. PID=865847 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[15-Jul-2017 07:25:36 UTC] PHP Warning:  Error while sending QUERY packet. PID=832965 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[15-Jul-2017 07:25:42 UTC] PHP Warning:  Error while sending QUERY packet. PID=866895 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[23-Jul-2017 04:59:41 UTC] PHP Warning:  Error while sending QUERY packet. PID=742521 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[23-Jul-2017 05:00:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php:1879) in /home/moktarul/public_html/razorbee.com/wp-content/plugins/user-pro/index.php on line 35
+[23-Jul-2017 05:00:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php:1879) in /home/moktarul/public_html/razorbee.com/wp-includes/option.php on line 837
+[23-Jul-2017 05:00:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php:1879) in /home/moktarul/public_html/razorbee.com/wp-includes/option.php on line 838
+[31-Jul-2017 23:27:25 UTC] PHP Warning:  Error while sending QUERY packet. PID=934424 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[31-Jul-2017 23:27:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php:1879) in /home/moktarul/public_html/razorbee.com/wp-content/plugins/user-pro/index.php on line 35
+[31-Jul-2017 23:27:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php:1879) in /home/moktarul/public_html/razorbee.com/wp-includes/option.php on line 837
+[31-Jul-2017 23:27:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php:1879) in /home/moktarul/public_html/razorbee.com/wp-includes/option.php on line 838
+[07-Aug-2017 16:51:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=220389 in /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php on line 1879
+[07-Aug-2017 16:51:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php:1879) in /home/moktarul/public_html/razorbee.com/wp-content/plugins/user-pro/index.php on line 35
+[07-Aug-2017 16:51:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/moktarul/public_html/razorbee.com/wp-includes/wp-db.php:1879) in /home/moktarul/public_html/razorbee.com/wp-includes/pluggable.php on line 1210
+[17-Aug-2017 09:19:29 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/razorbee.com/wp-content/plugins/user-pro/admin/panels/settings.php on line 791
+[17-Aug-2017 09:20:14 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/razorbee.com/wp-content/plugins/user-pro/admin/panels/settings.php on line 791
+[17-Aug-2017 09:20:57 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/razorbee.com/wp-content/plugins/user-pro/admin/panels/settings.php on line 791
+[24-Sep-2017 09:24:40 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/razorbee.com/wp-content/plugins/user-pro/admin/panels/settings.php on line 791

@@ -1,0 +1,302 @@
+/**
+ * All of the CSS for admin-facing functionality should be
+ * included in this file.
+ */
+.wb-tt-metabox {
+    margin: 0px;
+}
+.wb-tt-metabox .wb-tt-metabox-form{
+    display: none;
+}
+.wb-tt-metabox table {
+    width: 97%;
+}
+.wb-tt-metabox .wb-tt-metabox-table {
+    border-color: #e3e3e3;
+}
+.wb-tt-metabox .wb-tt-metabox-table thead th {
+    padding: 10px;
+    text-align: left;
+    background: #004d73;
+    color: #ffffff;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+.wb-tt-metabox .wb-tt-metabox-table tbody td {
+    padding: 7px 15px;
+}
+.post-type-wb-tt #add-time,#add-day{
+    line-height: none !important;
+    margin-left: 15px;
+}
+.post-type-wb-tt .wb-tt-metabox-table{
+ margin-left: 15px;
+}
+.post-type-wb-tt div.wb_tt_dialog{
+    position: relative;
+}
+body.post-type-wb-tt div._wb_tt_dialog div.#wbday-form{
+    display: inline-block !important;
+}
+.post-type-wb-tt .wb-tt-metabox .ui-button {
+    font-size: 14px;
+    line-height: 1;
+    padding: 4px 10px 6px;
+    background: none;
+    height: auto;
+    margin: 15px 0;
+    border-radius: 3px;
+    background: #00c2e5;
+    color: #fff;
+    border: 0;
+    box-shadow: none;
+    transition: all .3s ease;
+}
+
+.post-type-wb-tt .wb-tt-metabox .ui-button:hover {
+    background: #292929;
+    color: #fff;
+}
+.post-type-wb-tt #wb-option-tab div.wb-tab-contentm{
+  padding: 0px;
+}
+/**Setip Option**/
+.post-type-wb-tt div.wb-tab-contain{
+  z-index: 10;
+  width: 100%;
+  background-color: #ffffff;
+  padding: 0 !important;
+  margin-top: 0px;
+  margin-left: 0px;
+  background-clip: padding-box;
+  opacity: 0.97;
+  filter: alpha(opacity=97);
+}
+.post-type-wb-tt div.wb-tab-menu{
+  padding-right: 0;
+  padding-left: 0;
+  padding-bottom: 0;
+}
+.post-type-wb-tt div.wb-tab-menu div.list-group{
+  margin-bottom: 0;
+}
+.post-type-wb-tt div.wb-tab-menu div.list-group>a{
+  margin-bottom: 0;
+}
+.post-type-wb-tt div.wb-tab-menu div.list-group>a .fa {
+  color: #08C3E5;
+}
+.post-type-wb-tt div.wb-tab-menu div.list-group>a:first-child{
+  border-top-right-radius: 0;
+  -moz-border-top-right-radius: 0;
+}
+.post-type-wb-tt div.wb-tab-menu div.list-group>a:last-child{
+  border-bottom-right-radius: 0;
+  -moz-border-bottom-right-radius: 0;
+}
+.post-type-wb-tt div.wb-tab-menu div.list-group>a.active,
+.post-type-wb-tt div.wb-tab-menu div.list-group>a.active .fa{
+  border: none;
+  background-color: #004d73;
+  background-image: #004d73;
+  color: #ffffff;
+}
+.post-type-wb-tt div.wb-tab-menu div.list-group>a.active:after{
+  content: '';
+  position: absolute;
+  left: 100%;
+  top: 50%;
+  margin-top: -13px;
+  border-left: 0;
+  border-bottom: 13px solid transparent;
+  border-top: 13px solid transparent;
+  border-left: 10px solid #004d73;
+}
+.post-type-wb-tt div.wb-option-tab div.wb-tab-content:not(.active){
+  display: none;
+}
+.post-type-wb-tt div.wb-tab-content{
+  background-color: #ffffff;
+  padding-left: 20px;
+  padding-top: 10px;
+
+}
+.post-type-wb-tt .wb_hidden{
+  display: none;
+}
+.post-type-wb-tt .wb_div_sec{
+  overflow: hidden;
+}
+.post-type-wb-tt .wb_tt_button{
+  font-size: 14px;
+  line-height: 2;
+  padding: 4px 10px 6px;
+  background: none;
+  height: 25px;
+  margin: 15px 0;
+  display: inline-block;
+  border-radius: 3px;
+  background: #00c2e5;
+  color: #fff;
+  border: 0;
+  box-shadow: none;
+  transition: all .3s ease;
+}
+.post-type-wb-tt a.remove-row{
+  height: 20px;
+  line-height: 1.5;
+  background: #004d73;
+}
+.post-type-wb-tt .wb_tt_button:hover{
+  background: #292929;
+  color: #fff;
+  text-decoration: none;
+}
+.post-type-wb-tt .ui-dialog-buttonset{
+  line-height: 1.5;
+}
+.post-type-wb-tt .wb_lis_g a{
+  line-height: 30px;
+}
+.post-type-wb-tt .wb_div_sec{
+  margin-left: -15px;
+}
+.post-type-wb-tt .wb_label{
+  text-align: left;
+  width: 100px;
+  float: left;
+}
+.post-type-wb-tt .wb_text_i{
+  width: 50%;
+  float: 300px;
+  border-radius: 2px;
+}
+/****tab css****/
+.post-type-wb-tt .list-group-item.active,
+.post-type-wb-tt .list-group-item.active:hover,
+.post-type-wb-tt .list-group-item.active:focus {
+  z-index: 2;
+  color: #ffffff;
+  background-color: #337ab7;
+  border-color: #337ab7;
+}
+.post-type-wb-tt a.list-group-item h4{ 
+ margin: 16px;
+}
+.post-type-wb-tt a.list-group-item:hover,
+.post-type-wb-tt button.list-group-item:hover,
+.post-type-wb-tt a.list-group-item:focus,
+.post-type-wb-tt button.list-group-item:focus {
+  text-decoration: none;
+  color: #555555;
+  background-color: #f5f5f5;
+}
+.post-type-wb-tt .list-group-item:first-child {
+  border-top-right-radius: 4px;
+  border-top-left-radius: 4px;
+}
+.post-type-wb-tt .list-group-item:first-child {
+  border-top-right-radius: 4px;
+  border-top-left-radius: 4px;
+}
+.post-type-wb-tt a.list-group-item,
+.post-type-wb-tt button.list-group-item {
+  color: #555555;
+}
+.post-type-wb-tt a:hover,
+.post-type-wb-tt a:focus {
+  color: #23527c;
+  text-decoration: underline;
+}
+.post-type-wb-tt a:active,
+.post-type-wb-tt a:hover {
+  outline: 0;
+}
+.post-type-wb-tt .list-group-item {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  margin-bottom: -1px;
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+}
+.post-type-wb-tt .text-center {
+  text-align: center;
+}
+.post-type-wb-tt a {
+  color: #337ab7;
+  text-decoration: none;
+}
+.post-type-wb-tt a {
+  background-color: transparent;
+}
+.post-type-wb-tt .col-sm-8 {
+  width: 66.66666667%;
+}
+@media (min-width: 768px) {
+.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+  float: left;
+}
+/*.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}*/
+@media (min-width: 768px){
+.col-sm-3 { 
+    width: 25%;
+}
+.col-xs-3 {
+    width: 25%;
+}
+@media (min-width: 768px){
+.col-sm-8 {
+    width: 66.66666667%;
+}
+@media (min-width: 768px){ 
+.col-sm-8 {
+    float: left;
+}
+.col-xs-9 {
+    width: 75%;
+}
+.col-xs-9 {
+    float: left;
+}
+.col-lg-5,.col-md-5,.col-sm-8{
+      position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.col-xs-3{
+  float: left;
+}
+@media (min-width: 1200px){ 
+.col-lg-3 {
+    width: 25%;
+}
+
+@media (min-width: 1200px){ 
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9 {
+    float: left;
+}
+@media (min-width: 992px){
+.col-md-3 {
+    width: 25%;
+}
+@media (min-width: 992px){
+.col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9 {
+    float: left;
+}
+@media (min-width: 1200px){
+.col-lg-5 {
+    width: 41.66666667%;
+}
+@media (min-width: 1200px){
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9 {
+    float: left;
+}

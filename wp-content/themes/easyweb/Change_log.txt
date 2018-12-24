@@ -1,0 +1,174 @@
+V 2.1.9 – 15 April 2017
+- Updated : Visual composer 5.1.1
+- Compatibility: Woocommerce 3.0.3
+- Fixed : menu sticky on mobile
+- Fixed : logo on mobile
+
+V 2.1.8 – 14 March 2017
+- Fixed : Fixed menu font family issue
+
+V 2.1.7 – 13 March 2017
+- Updated : Visual Composer 5.1
+- Updated : Slider Revolution 5.4.1
+- Fixed : Footer background color
+
+V 2.1.6 – 27 December 2017
+- Added : Auto update to admin panel
+- Updated : Userpro 4.9.5
+- Updated : The Grid 2.3.0
+- Updated : Pot file
+- Fixed : Logo clickable in phone
+- Fixed : Woocommerce styling issue
+- Fixed : Subscribe bar title issue
+- Fixed : Some minor issue
+- Fixed : WPML styling issue
+- Fixed : Mobile menu sticky 
+- Fixed : Topbar fixed issue
+- Fixed : Footer background color style
+- Fixed : Breadcrumbs
+- Fixed : Some minor issue
+
+V 2.1.5 – 26 December 2017
+- Added : Copy & paste to visual composer
+- Added : Row quick shortcode to visual composer
+- Fixed : Search option in header
+
+V 2.1.4 – 24 December 2017
+- Updated : Slider Revolution 5.3.1.5
+- Updated : UserPro 4.9.1
+- Updated : WP Domain Checker 4.0.1
+- Fixed : Whmcs bridge issues
+
+V 2.1.3 – 6
+- Updated : Visual Composer 5.0.1
+- Updated : Slider Revolution 5.3.1
+- Updated : Page speed solution
+- Fixed : W3 total cache issue
+- Fixed : Font family in header
+- Fixed : Woocommerce sidebar issue
+
+V 2.1.2 – 14 November 2016
+- Updated : Visual Composer 5
+- Updated : User Pro 4.7
+- Fixed : Webnus Button
+- Fixed : User Pro login form
+
+V 2.1.1 - 6 Nov 2016
+- Update : User Pro 4.6
+- Update : The Grid 2.2.0
+- Update : Envato WordPress Toolkit 1.7.3 
+- Update : Slider Revolution 5.3.0.2
+- Update : DummyContent Easyhost
+- Fixed : Polylang flags
+- Fixed : Pricing Table type 2 & 6
+- Fixed : Blog Grid option
+- Fixed : Some minor issue
+- Remove : Widget webnus contact form
+
+V 2.1.0 - 26 Sep 2016
+- Added : New demo Easyseo2
+- Added : The Grid Wordpress plugin
+- Improve : Clean coding
+- Improve : Admin panel design
+- Update : Google map
+- Fixed : Typography issue
+- Fixed : Contact form 7
+- Fixed : DummyContent issue
+
+v 2.0.1 - 9 Sep 2016 
+- Added : Sticky menu for mobile.
+- Fixed : Style issue in woocommerce
+- Fixed : Mega menu header type 11 in boxed layout
+- Fixed : Header menu isset
+- Fixed : Some minor issue
+
+v 2.0.0 – 21 August 2016
+- Added : New Demo (Easy Conference)
+- Added : UserPro Plugin
+- Added : Webnus Time Table plugin
+- Added : Welcome Admin Page
+- Added : layout Options to Customizer
+- Added : Header Options to Customizer
+- Added : Footer Options to Customizer
+- Added : Pages Options to Customizer
+- Added : Blog Options to Customizer
+- Added : Styling Options to Customizer
+- Added : Typography Options to Customizer
+- Added : Social Networks Options to Customizer
+- Added : Shop Options to Customizer
+- Added : Maintenance Mode Options to Customizer
+- Added : Dependecies to Theme Options
+- Added : New Countdown type (Flip type)
+- Added : New Style for WHMPress Client Area
+- Changed : NHP to Redux Framework (Theme options)
+- Changed : Demo Importer
+- improved : Typography Options
+- improved : Styling options
+- improved : Demo Importer
+- improved : dyncss.php (Custom Color Skin)
+- Updated : Webnus Shortcodes
+- Fixed : Iconbox 18 (style)
+- Fixed : Check List issue (style)
+- Fixed : Some minor issue
+
+v 1.3.4 – 9 August 2016  
+- Updated : Essential grid to 2.1.0.1
+- Updated : Google fonts for ssl 
+- Fixed : Visual composer row setting issue
+- Fixed : Masonry Issue
+
+v 1.3.3 – 3 August 2016
+- Fixed : Margin issue in body (base.css)
+
+v 1.3.2 – 2 August 2016
+- Updated : Wp domain checker to 4.0.0
+- Updated : Revolution slider to 5.2.6
+- Updated : Essential grid to 2.1.0.1
+- Updated : Documentaion
+- Fixed   : Logo in h1
+- Fixed   : Buttons color issue 
+- Fixed   : Login responsive Issue
+- Fixed   : Some minor issue
+
+v 1.3.1 – 29 June 2016
+- Fixed : Icon boxes issue
+- Fixed : Header type 11 issue
+- Fixed : Custom color skins issue
+
+v 1.3.0 – 23 June 2016
+- Added : EasySmall demo 
+
+v 1.2.0 – 22 June 2016
+- Added : Compatibility with WHMPress(microtemplates)
+- Update : Visual composer to 4.12
+- Fixed : some minor issue
+
+v 1.1.0 – 16 June 2016
+- Added : EasyApp Demo
+- Fixed : Logo responsive issue in transparent header
+- Fixed : Some minor issues
+
+v 1.0.4 – 6 June 2016
+- Update : Revolution slider version 5.2.5.3
+- Fixed : VC frontend editor issue
+- Fixed : Onepage-menu issue
+- Fixed : Some minor issues
+
+v 1.0.3 – 30 May 2016
+- Added: EasySEO Home 3
+- Added: Whiteboard slider  
+- Fixed: Some minor issues
+
+v 1.0.2 – 24 May 2016
+- Added : Polylang flags to topbar options
+- Updated: Documentaion   
+- Fixed: Some minor issues
+
+v 1.0.1 – 19 May 2016
+- Updated: Documentaion
+- Fixed: Page-options issues
+- Fixed: Video play button 
+- Fixed: Some minor issues
+
+v 1.0.0 – 18 May 2016
+- Initial Release
