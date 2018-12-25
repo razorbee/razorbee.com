@@ -1,0 +1,27 @@
+SetEnv MAGICK_THREAD_LIMIT 1
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /razorbee/razorbee.com/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /razorbee/razorbee.com/index.php [L]
+</IfModule>
+
+<files wp-config.php>
+order allow,deny
+deny from all
+</files>
+<files ~ "^.*\.([Hh][Tt][Aa])">
+order allow,deny
+deny from all
+satisfy all
+</files>
+# Block WordPress xmlrpc.php requests
+<Files xmlrpc.php>
+order deny,allow
+deny from all
+</Files>
+
+# END WordPress
