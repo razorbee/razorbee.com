@@ -27,7 +27,7 @@ require_once( 'wp-rbuilt.php' );
 /** The name of the database for WordPress */
 define('WP_HOME','http://localhost/razorbee/razorbee.com');
 	define('WP_SITEURL','http://localhost/razorbee/razorbee.com');
-	define('DB_NAME', 'razorbee.com');
+	define('DB_NAME', 'razorbee');
 	define('DB_USER', 'root');
 	define('DB_PASSWORD', '');
 
@@ -100,7 +100,7 @@ $table_prefix  = 'wp_';
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
 define( 'WP_AUTO_UPDATE_CORE', false );
-define('WP_DEBUG', false);
+define('WP_DEBUG', true);
 ini_set('display_errors','Off');
 
 /* That's all, stop editing! Happy blogging. */

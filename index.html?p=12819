@@ -1,0 +1,429 @@
+
+
+ 
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head/>
+	<script>document.write = function(){};</script>
+	<meta charset="UTF-8">
+	<meta name="google-site-verification" content="irZ9jlsXfFJcCJiLFPf1kE-8KyfRExJVDTy6Gm9CvQk" />
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	
+	<link rel="shortcut icon" href="http://razorbee.com/wp-content/themes/easyweb/images/favicon.ico">
+	<title>DIGITAL  MARKETING &#8211; RazorBee</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="RazorBee &raquo; Feed" href="http://razorbee.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="RazorBee &raquo; Comments Feed" href="http://razorbee.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost\/razorbee.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='essential-grid-plugin-settings-css'  href='http://razorbee.com/wp-content/plugins/essential-grid/public/assets/css/settings.css?ver=2.1.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-open-sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800&#038;ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-raleway-css'  href='http://fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-droid-serif-css'  href='http://fonts.googleapis.com/css?family=Droid+Serif%3A400%2C700&#038;ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://razorbee.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='wb-tt-css'  href='http://razorbee.com/wp-content/plugins/w-time-table/public/css/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wb_font-awsome-css'  href='http://razorbee.com/wp-content/plugins/w-time-table/public/css/font-awesome.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://razorbee.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='main-style-css'  href='http://razorbee.com/wp-content/themes/easyweb/css/master.css?ver=2.1.9' type='text/css' media='all' />
+<link rel='stylesheet' id='webnus-dynamic-styles-css'  href='http://razorbee.com/wp-content/themes/easyweb/css/dyncss.css?ver=4.8' type='text/css' media='all' />
+<style id='webnus-dynamic-styles-inline-css' type='text/css'>
+@font-face {  font-family: 'custom-font-1';  font-style: normal;  font-weight: normal;  src: url('?#iefix') format('embedded-opentype'),url('') format('woff'),url('') format('truetype');}@font-face {  font-family: 'custom-font-2';  font-style: normal;  font-weight: normal;  src: url('?#iefix') format('embedded-opentype'),url('') format('woff'),url('') format('truetype');}@font-face {  font-family: 'custom-font-3';  font-style: normal;  font-weight: normal;  src: url('?#iefix') format('embedded-opentype'),url('') format('woff'),url('') format('truetype');}#wrap #nav a { color:;}#wrap #nav a:hover,.transparent-header-w.t-dark-w #header.horizontal-w.duplex-hd #nav > li:hover > a,.transparent-header-w #header.horizontal-w #nav > li:hover > a {color:;}#wrap #nav li.current > a, #wrap #nav li.current ul li a:hover, #wrap #nav li.active > a {color:#2f358f;}#wrap #scroll-top a {background-color:;}#wrap #scroll-top a:hover {background-color:;}#product_list img{max-height:160px;}#product_list a:first-child{display:block;height:200px;}#product_list article{height:530px;}@media only screen and (min-width: 1281px) {#wrap .container {width: 100%;}}@media only screen and (min-width: 1281px) {#header ul#nav li.menu-item a{color: #000 !important;}#header ul#nav li.current a{color: #2f358f !important;font-weight: bold;}}
+</style>
+<link rel='stylesheet' id='webnus-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C400italic%2C600%2C700%2C700italic%2C800%7CMerriweather%3A400%2C400italic%2C700%2C700italic%7CLora%3A400%2C400italic%2C700%2C700italic%7CPoppins%3A300%2C400%2C500%2C600%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://razorbee.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='http://razorbee.com/wp-content/themes/easyweb/style.css?ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='http://razorbee.com/wp-content/themes/easyweb_child_theme/style.css?ver=4.8' type='text/css' media='all' />
+<script type='text/javascript' src='http://razorbee.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://razorbee.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://razorbee.com/wp-content/plugins/essential-grid/public/assets/js/lightbox.js?ver=2.1.0.2'></script>
+<script type='text/javascript' src='http://razorbee.com/wp-content/plugins/essential-grid/public/assets/js/jquery.themepunch.tools.min.js?ver=2.1.0.2'></script>
+<script type='text/javascript' src='http://razorbee.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.1'></script>
+<link rel='https://api.w.org/' href='http://razorbee.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://razorbee.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://razorbee.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8" />
+<link rel="canonical" href="http://razorbee.com/digital-marketing/" />
+<link rel='shortlink' href='http://razorbee.com/?p=12819' />
+<link rel="alternate" type="application/json+oembed" href="http://razorbee.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Frazorbee.com%2Fdigital-marketing%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://razorbee.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Frazorbee.com%2Fdigital-marketing%2F&#038;format=xml" />
+		<script type="text/javascript">
+			var ajaxRevslider;
+			
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = '8f0a5a1c63';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"http://razorbee.com/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+		<style type="text/css" media="screen">body{  }</style>		<meta property="og:title" content="DIGITAL  MARKETING" />
+		<meta property="og:type" content="article" />
+		<meta property="og:image" content="http://razorbee.com/wp-content/uploads/2019/02/Digital-Marketing-Strategies.jpg" />
+		<meta property="og:url" content="http://razorbee.com/digital-marketing/" />
+		<meta property="og:description" content="Digital marketing is an online process of marketing which works for all businesses B2B and B2C in any industry with the help of digital devices, digital platforms, digital media, digital data, and digital technology. &nbsp; Digital Marketing: Inbound marketing: In inbound marketing marketers use online content to attract, convert and close their target customers onto their websites by providing assets that are helpful to them and delight them online. One of the simplest yet most powerful inbound digital marketing assets is a blog, which allows your website to capitalize on the terms which your ideal customers are searching for. Outbound marketing: In outbound marketing marketers aim to put a marketing message directly in front of as many people as possible in the online space &#8212; regardless of whether it’s relevant or welcomed. For example, the garish banner ads you see at the top of many websites try to push a product or promotion onto people who aren’t necessarily ready to receive it. All digital marketers have their own marketing strategies for acquiring and retaining more customers in this challenging and competitive market. There’s a huge spectrum of tactics and assets for successful digital marketing. And the best digital marketers have a clear picture of how each asset or tactic supports their overarching goals. Some of the most common assets and tactics are : Assets : Company website Blog posts and effective contents Ebooks and whitepapers Infographics (graphic visual representations of information, data or knowledge intended to present information quickly and clearly) Interactive tools (increase engagement with a target audience by allowing them to interact with the page itself) Social media channels (Facebook, LinkedIn, Twitter, Instagram, etc.) Earneonts, etc.)d online coverage (PR, social media, and reviews) Online brochures and lookbooks Branding assets (logos, fonts, etc.) Tactics : Search Engine Optimization (SEO)... Continue Reading" />
+		<meta property="og:site_name" content="RazorBee" />
+				<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://razorbee.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.side-list ul li p,.rec-posts{
+display:none;
+}
+#comments{
+margin-top:-200px;}		</style>
+	<style type="text/css" title="dynamic-css" class="options-output">#wrap #footer{background-color:#222429;}#wrap #footer .footbot{background-color:#25272d;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+	<meta name="description" content="Razorbee Online Solutions Pvt Ltd, a Bangalore based fast growing company, provides sharp-edge solutions for all types of software development and software products  and IT services that enhances a business worldwide prosperity." />
+
+<meta name="keywords" content="razorbee, razorbee online solutions, mobile application, mobile apps, website development" />
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJ59V6B');</script>
+<!-- End Google Tag Manager -->
+</head>
+
+<body class="post-template-default single single-post postid-12819 single-format-standard   smooth-scroll wpb-js-composer js-comp-ver-5.1.1 vc_responsive" data-scrolls-value="380">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJ59V6B"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Start the #wrap div -->
+<script type="text/javascript"> jQuery("body").removeClass('transparent-header-w');
+</script>
+
+<div id="wrap" class="">
+
+	<header id="header" class="horizontal-w   sm-rgt-mn  ">
+<div class="container">
+<div class="col-md-3 col-sm-3 logo-wrap">
+<div class="logo">
+<a href="http://razorbee.com/"><img src="http://razorbee.com/wp-content/uploads/2017/08/razorbee_logo.png" width="380" id="img-logo-w1" alt="RazorBee" class="img-logo-w1" style="width: 380px"></a><a href="http://razorbee.com/"><img src="http://razorbee.com/wp-content/uploads/2017/08/razorbee_logo.png" width="380" id="img-logo-w2" alt="RazorBee" class="img-logo-w2" style="width: 380px"></a><span class="logo-sticky"><a href="http://razorbee.com/"><img src="http://razorbee.com/wp-content/uploads/2017/08/razorbee_logo.png" width="200" id="img-logo-w3" alt="RazorBee" class="img-logo-w3"></a></span></div></div>
+<nav id="nav-wrap" class="nav-wrap1 col-md-9 col-sm-9">
+	<div class="container">
+		<ul id="nav"><li id="menu-item-10318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10318"><a  href="/" data-description="start here">Home</a></li>
+<li id="menu-item-10445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10445"><a  href="http://razorbee.com/services-3/" data-description="">Our Services</a>
+<ul  class="sub-menu">
+	<li id="menu-item-10529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10529"><a  href="http://razorbee.com/website-design/" data-description="">Website Design</a>
+	<ul  class="sub-menu">
+		<li id="menu-item-10531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10531"><a  href="http://razorbee.com/wordpress-website/" data-description="">WordPress Website</a></li>
+		<li id="menu-item-10532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10532"><a  href="http://razorbee.com/ecommerce-website/" data-description="">Ecommerce Website</a></li>
+		<li id="menu-item-10533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10533"><a  href="http://razorbee.com/custom-cms-websites/" data-description="">Custom CMS Websites</a></li>
+	</ul>
+</li>
+	<li id="menu-item-10573" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10573"><a  href="http://razorbee.com/mobile-application/" data-description="">Mobile application</a></li>
+	<li id="menu-item-10534" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10534"><a  href="http://razorbee.com/search-engine-optimization/" data-description="">Search Engine Optimization</a></li>
+	<li id="menu-item-10537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10537"><a  href="http://razorbee.com/social-media-marketing-2/" data-description="">Social Media Marketing</a></li>
+	<li id="menu-item-10538" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10538"><a  href="http://razorbee.com/pay-per-click/" data-description="">Pay Per Click</a></li>
+	<li id="menu-item-10539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10539"><a  href="http://razorbee.com/online-marketing/" data-description="">Online Marketing</a></li>
+	<li id="menu-item-10563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10563"><a  href="http://razorbee.com/mobile-marketing/" data-description="">Mobile Marketing</a></li>
+</ul>
+</li>
+<li id="menu-item-10484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10484"><a  href="http://razorbee.com/products/" data-description="">Products</a>
+<ul  class="sub-menu">
+	<li id="menu-item-10610" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10610"><a  href="http://razorbee.com/products/" data-description="">digital darpan</a></li>
+	<li id="menu-item-10611" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10611"><a  href="http://razorbee.com/products/" data-description="">techyShiksha</a></li>
+	<li id="menu-item-10612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10612"><a  href="http://razorbee.com/products/" data-description="">business mangement software</a></li>
+	<li id="menu-item-10613" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10613"><a  href="http://razorbee.com/products/" data-description="">justAwaaz</a></li>
+	<li id="menu-item-10614" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10614"><a  href="http://razorbee.com/products/" data-description="">digital sinage</a></li>
+	<li id="menu-item-10615" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10615"><a  href="http://razorbee.com/products/" data-description="">hospital management</a></li>
+</ul>
+</li>
+<li id="menu-item-10555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10555"><a  href="http://razorbee.com/about-us/" data-description="">About us</a></li>
+<li id="menu-item-12710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12710"><a  href="http://razorbee.com/portfolio-type-2/" data-description="">Portfolio</a></li>
+<li id="menu-item-12865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12865"><a  href="http://razorbee.com/blog-new/" data-description="">Blog</a></li>
+<li id="menu-item-10546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10546"><a  href="http://razorbee.com/careers/" data-description="">careers</a></li>
+<li id="menu-item-10332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10332"><a  href="http://razorbee.com/contact-us/" data-description="connect now">Contact</a></li>
+</ul>	</div>
+</nav>
+</div>
+		</header>
+<!-- end-header -->
+
+<section class="container page-content" >
+<hr class="vertical-space2">
+<section class="col-md-9 cntt-w">
+<article class="blog-single-post">
+<div class="post-trait-w"> <h1>DIGITAL  MARKETING</h1> <img src="http://razorbee.com/wp-content/uploads/2019/02/Digital-Marketing-Strategies.jpg" alt="DIGITAL  MARKETING" class="landscape full" width="800" height="342" /></div>
+<div class="post post-12819 type-post status-publish format-standard has-post-thumbnail hentry category-education category-tech-debates">
+<div class="au-avatar-box">
+	
+<div class="au-avatar"><img alt='' src='http://2.gravatar.com/avatar/2bb858843377ce1cc5f5baf4477e9262?s=90&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/2bb858843377ce1cc5f5baf4477e9262?s=180&amp;d=mm&amp;r=g 2x' class='avatar avatar-90 photo' height='90' width='90' /></div>
+	
+<h6 class="blog-author"><strong>by</strong> <a href="http://razorbee.com/author/razorbeeblog/" title="Posts by Razorbee India" rel="author">Razorbee India</a> </h6>
+</div>
+		
+<div class="postmetadata">
+	<h6 class="blog-date"> February 7, 2019</h6>
+			<h6 class="blog-cat"><strong>in</strong> <a href="http://razorbee.com/category/education/" rel="category tag">Education</a>, <a href="http://razorbee.com/category/tech-debates/" rel="category tag">Tech Debates</a> </h6>
+					<h6 class="blog-views"> <i class="fa-eye"></i><span>429</span> </h6>
+	</div>
+
+<blockquote>
+<p style="text-align: center;"><em><strong>Digital marketing is an online process of marketing which works for all businesses B2B and B2C in any industry with the help of digital devices, digital platforms, digital media, digital data, and digital technology.</strong></em></p>
+</blockquote>
+<p>&nbsp;</p>
+<h3 class="_2cuy _50a1 _2vxa">Digital Marketing:</h3>
+<div class="_2cuy _3dgx _2vxa"><span class="_4yxr">Inbound marketing</span>: In inbound marketing marketers use online content to attract, convert and close their target customers onto their websites by providing assets that are helpful to them and delight them online. One of the simplest yet most powerful inbound digital marketing assets is a blog, which allows your website to capitalize on the terms which your ideal customers are searching for.</div>
+<div class="_2cuy _3dgx _2vxa"><span class="_4yxr">Outbound marketing</span>: In outbound marketing marketers aim to put a marketing message directly in front of as many people as possible in the online space &#8212; regardless of whether it’s relevant or welcomed. For example, the garish banner ads you see at the top of many websites try to push a product or promotion onto people who aren’t necessarily ready to receive it.</div>
+<ul class="_5a_q _5yj1" dir="ltr">
+<li class="_2cuy _509q _2vxa">All digital marketers have their own marketing strategies for acquiring and retaining more customers in this challenging and competitive market. There’s a huge spectrum of tactics and assets for successful digital marketing. And the best digital marketers have a clear picture of how each asset or tactic supports their overarching goals. Some of the most common assets and tactics are :</li>
+</ul>
+<h3 class="_2cuy _50a1 _2vxa"><span class="_4yxr">Assets </span>:</h3>
+<ul class="_5a_q _5yj1" dir="ltr">
+<li class="_2cuy _509q _2vxa">Company website</li>
+<li class="_2cuy _509q _2vxa">Blog posts and effective contents</li>
+<li class="_2cuy _509q _2vxa">Ebooks and whitepapers</li>
+<li class="_2cuy _509q _2vxa">Infographics (graphic visual representations of information, data or knowledge intended to present information quickly and clearly)</li>
+<li class="_2cuy _509q _2vxa">Interactive tools (increase engagement with a target audience by allowing them to interact with the page itself)</li>
+<li class="_2cuy _509q _2vxa">Social media channels (Facebook, LinkedIn, Twitter, Instagram, etc.)</li>
+<li class="_2cuy _509q _2vxa">Earneonts, etc.)d online coverage (PR, social media, and reviews)</li>
+<li class="_2cuy _509q _2vxa">Online brochures and lookbooks</li>
+<li class="_2cuy _509q _2vxa">Branding assets (logos, fonts, etc.)</li>
+</ul>
+<h3 class="_2cuy _50a1 _2vxa"><span class="_4yxr">Tactics </span>:</h3>
+<ul class="_5a_q _5yj1" dir="ltr">
+<li class="_2cuy _509q _2vxa"><strong>Search Engine Optimization (SEO) :</strong> The process of optimizing your website to ‘rank’ higher in search engine results pages, therefore increasing the amount of organic (or free) traffic that your website receives.</li>
+<li class="_2cuy _509q _2vxa"><strong>Native Advertising :</strong> Native advertising refers to advertisements that are primarily content-led and featured on a platform alongside other, non-paid content. BuzzFeed sponsored posts are a good example, but many people also consider social media advertising to be ‘native’ &#8212; for example, Facebook advertising and Instagram advertising.</li>
+<li class="_2cuy _509q _2vxa"><strong>Pay-Per-Click ( PPC ) :</strong> A method of driving traffic to your website by paying a publisher every time your ad is clicked. One of the most common types of PPC is Google AdWords.</li>
+<li class="_2cuy _509q _2vxa"><strong>Affiliate Marketing :</strong> A type of performance-based advertising where you receive commission for promoting someone else’s products or services on your website.</li>
+<li class="_2cuy _509q _2vxa"><strong>Content Management Software (CMS) :</strong> A software application used to create and manage digital content for the purpose of generating brand awareness, traffic growth, lead generation, or customers. It has two components CMA and CDA where CMA is a graphical user interface that allows the user to control the creation, modification and removal of content from a website without needing to know anything about HTML.</li>
+<li class="_2cuy _509q _2vxa"><strong>Social Media Marketing :</strong> The practice of promoting your brand and your content on social media channels using social media platforms and websites to increase brand awareness, drive traffic, and generate leads for your business.</li>
+<li class="_2cuy _509q _2vxa"><strong>Email Marketing :</strong> Companies use email marketing as a way of communicating with their audiences. Email is often used to promote content, discounts and events, as well as to direct people towards the business’ website.</li>
+<li class="_2cuy _509q _2vxa"><strong>Mobile Marketing :</strong> Mobile marketing is multi-channel online marketing technique focused at reaching a specific audience on their smart phone, tablets, or any other related devices through websites, E mail, SMS and MMS, social media or mobile applications. To make the users engaged with a company online via mobile devices need to implement a mobile-friendly or responsive website design to make browsing user-friendly for those on mobile devices.</li>
+<li class="_2cuy _509q _2vxa"><strong>Marketing Automation :</strong> Marketing automation refers to the software that exists with the goal of automating marketing actions. Many marketing departments have to automate repetitive tasks such as emails, social media, and other website actions.</li>
+<li class="_2cuy _509q _2vxa"><strong>Online Public Relation (PR) :</strong> Online PR is the practice of securing earned online coverage with digital publications, blogs, and other content-based websites. It’s much like traditional PR, but in the online space. Public relations specialists establish and maintain relationships with an organisation’s target audience, the media, relevant trade media, and other opinion leaders.</li>
+</ul>
+<h3 class="_2cuy _50a1 _2vxa">Benefits of Digital Marketing : Unlike most offline marketing efforts, digital marketing allows marketers to see accurate results in real time. With digital marketing, one can measure the ROI (Return on Investment) of pretty much any aspect of one’s marketing efforts. Here are some examples:</h3>
+<h3 class="_2cuy _50a1 _2vxa"><span class="_4yxr">Website Traffic </span>:</h3>
+<ul class="_5a_q _5yj1" dir="ltr">
+<li class="_2cuy _509q _2vxa">With digital marketing, you can see the exact number of people who have viewed your website’s homepage in real time by using digital analytics software like HubSpot. You can also see how many pages they visited, what device they were using, and where they came from, amongst other digital analytics data.</li>
+<li class="_2cuy _509q _2vxa">This intelligence helps you to prioritize which marketing channels to spend more or less time on, based on the number of people those channels are driving to your website. For example, if only 10% of your traffic is coming from organic search, you know that you probably need to spend some time on SEO to increase that percentage.</li>
+<li class="_2cuy _509q _2vxa">With digital marketing, you can identify trends and patterns in people’s behavior before they’ve reached the final stage in their buyer’s journey, meaning you can make more informed decisions about how to attract them to your website right at the top of the marketing funnel.</li>
+</ul>
+<h3 class="_2cuy _50a1 _2vxa"><span class="_4yxr">Content Performance and Lead Generation</span> :</h3>
+<ul class="_5a_q _5yj1" dir="ltr">
+<li class="_2cuy _509q _2vxa">If you create a product brochure and post it on your website, you can easily measure exactly how many people viewed the page where it’s hosted, and you can collect the contact details of those who download it by using forms. Not only you can measure how many people are engaging with your content, but you’re also generating qualified leads when people download it.</li>
+</ul>
+<h3 class="_2cuy _50a1 _2vxa"><span class="_4yxr">Attribution Modeling</span> :</h3>
+<ul class="_5a_q _5yj1" dir="ltr">
+<li class="_2cuy _509q _2vxa">In attribution modeling an effective digital marketing strategy, combined with the right tools and technologies allows you to trace all of your sales back to a customer’s first digital touchpoint with your business. It allows you to identify trends in the way people research and buy your product, helping you to make more informed decisions about what parts of your marketing strategy deserve more attention, and what parts of your sales cycle need refining.</li>
+<li class="_2cuy _509q _2vxa">Connecting the dots between marketing and sales is hugely important &#8212; according to Aberdeen Group, companies with strong sales and marketing alignment achieve a 20% annual growth rate, compared to a 4% decline in revenue for companies with poor alignment. If you can improve your customer&#8217;s’ journey through the buying cycle by using digital technologies, then it’s likely to reflect positively on your business’s bottom line.</li>
+</ul>
+	
+
+	
+	<div class="post-sharing"><div class="blog-social">
+		<span></span> 
+		<a class="facebook" href="http://www.facebook.com/sharer.php?u=http://razorbee.com/digital-marketing/&amp;t=DIGITAL  MARKETING" target="blank"><i class="fa-facebook"></i></a>
+		<a class="google" href="https://plusone.google.com/_/+1/confirm?hl=en-US&amp;url=http://razorbee.com/digital-marketing/" target="_blank"><i class="fa-google"></i></a>
+		<a class="twitter" href="https://twitter.com/intent/tweet?original_referer=http://razorbee.com/digital-marketing/&amp;text=DIGITAL  MARKETING&amp;tw_p=tweetbutton&amp;url=http://razorbee.com/digital-marketing/" target="_blank"><i class="fa-twitter"></i></a>
+		<a class="linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://razorbee.com/digital-marketing/&amp;title=DIGITAL  MARKETING&amp;source=RazorBee"><i class="fa-linkedin"></i></a>
+		<a class="email" href="mailto:?subject=DIGITAL  MARKETING&amp;body=http://razorbee.com/digital-marketing/"><i class="fa-envelope"></i></a>
+	</div></div>
+
+<br class="clear"> 
+<!-- End Tags --> 
+<div class="next-prev-posts">
+	  
+
+</div><!-- End next-prev post -->
+
+	<div class="about-author-sec">		  
+		<img alt='' src='http://2.gravatar.com/avatar/2bb858843377ce1cc5f5baf4477e9262?s=90&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/2bb858843377ce1cc5f5baf4477e9262?s=180&amp;d=mm&amp;r=g 2x' class='avatar avatar-90 photo' height='90' width='90' />		<h5><a href="http://razorbee.com/author/razorbeeblog/" title="Posts by Razorbee India" rel="author">Razorbee India</a></h5>
+		<p></p>
+	</div>
+	
+
+<div class="container rec-posts"><div class="col-md-12"><h3 class="rec-title">Recent Posts</div></h3>	
+
+</div>
+</article>
+<div class="comments-wrap" id="comments">
+	<div class="commentbox">
+					<div class="post-bottom-section">
+			<div class="right">
+											</div>
+		</div>
+			</div>
+</div></section>
+<!-- end-main-conten -->
+
+	<aside class="col-md-3 sidebar">
+		<div class="widget"><div class="subtitle-wrap"><h4 class="subtitle">Search</h4></div>
+<form role="search" action="http://razorbee.com/" method="get" >
+ <div>
+   <input name="s" type="text" placeholder="Enter Keywords..." class="search-side live-search" >
+   <input type="submit" id="searchsubmit" value="Search" class="btn" />
+</div>
+</form></div><div class="widget"><div class="subtitle-wrap"><h4 class="subtitle">Categories</h4></div>		<ul>
+	<li class="cat-item cat-item-92"><a href="http://razorbee.com/category/education/" >Education</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://razorbee.com/category/tech-debates/" >Tech Debates</a>
+</li>
+		</ul>
+</div><div class="widget"><div class="subtitle-wrap"><h4 class="subtitle">Social</h4></div>			<div class="socialfollow">
+			<a target="_blank" href="#" class="facebook"><i class="fa-facebook"></i></a><a target="_blank" href="#" class="twitter"><i class="fa-twitter"></i></a><a target="_blank" href="#" class="google-plus"><i class="fa-google-plus"></i></a><a target="_blank" href="#" class="linkedin"><i class="fa-linkedin"></i></a>			</div>	 
+		  </div><div class="widget"><div class="subtitle-wrap"><h4 class="subtitle">Popular Posts</h4></div>		<div class="side-list"><ul>
+				  <li>
+		  <a href="http://razorbee.com/digital-marketing/" title="DIGITAL  MARKETING"><img src="http://razorbee.com/wp-content/uploads/2019/02/Digital-Marketing-Strategies-164x124.jpg" alt="DIGITAL  MARKETING" class="landscape full easyweb_webnus_tabs_img" width="164" height="124" /></a>		  <h5><a href="http://razorbee.com/digital-marketing/">DIGITAL  MARKETING</a></h5>
+		  <p>No Comments</p>
+		  </li>
+		        </ul></div>
+		</div><div class="widget"><div class="subtitle-wrap"><h4 class="subtitle">Recent Posts</h4></div>		<div class="side-list"><ul>
+				  <li>
+		  <a href="http://razorbee.com/digital-marketing/" title="DIGITAL  MARKETING"><img src="http://razorbee.com/wp-content/uploads/2019/02/Digital-Marketing-Strategies-164x124.jpg" alt="DIGITAL  MARKETING" class="landscape full easyweb_webnus_tabs_img" width="164" height="124" /></a>		  <h5><a href="http://razorbee.com/digital-marketing/">DIGITAL  MARKETING</a></h5>
+		  <p>February 7, 2019</p>
+		  </li>
+		        </ul></div>	 
+		</div>	</aside>
+<div class="white-space"></div>
+</section>
+<section id="pre-footer">
+</section>
+
+	<footer id="footer" class="litex00">
+	<section class="container footer-in">
+	<div class="row">
+		<div class="col-md-6"><div class="widget"><h5 class="subtitle">About</h5>			<div class="textwidget"><p>Razorbee Online Solutions Pvt Ltd, a Bangalore based fast growing company, provides sharp-edge solutions for all types of software development and software products  and IT services that enhances a business worldwide prosperity.</p>
+<p>Having the experience of more than fifteen years, it is consistently recognised for its fresh and innovative ideas and applications. It has two wings based on its activities  Services and Products</p>
+</div>
+		</div><div class="widget">			<div class="textwidget"><div class="vertical-space2"></div>
+</div>
+		</div></div>
+	<div class="col-md-6"></div>
+		<div class="col-md-6">
+		<div class="widget">
+			<h5 class="subtitle">Address</h5>
+			<div class="textwidget" style="border:2px dashed white;padding-left:15px;">
+		<p style="font-size:25px;color:white;">Razorbee Online Solutions Pvt Ltd</p>
+<p style="color:white;">
+Gaurav building, 157/1, 2nd floor, Manipal County Rd,
+
+Above Domino’s pizza, AECS C Block,
+</p>
+<p style="color:white;">
+Singasandra, Bengaluru,
+
+Karnataka 560068
+</p>
+</div>
+</div>
+</div>
+	 </div>
+	 </section>
+	<!-- end-footer-in -->
+	<section class="footbot">
+<div class="container">
+	<div class="col-md-6">
+	<div class="footer-navi">
+	© 2017 All Rights Reserved. Created by RazorBee	</div>
+	</div>
+	<div class="col-md-6">
+	<div class="footer-navi floatright">
+		</div>
+	</div>
+</div>
+</section>	<!-- end-footbot -->
+	</footer>
+	<!-- end-footer -->
+<span id="scroll-top"><a class="scrollup"><i class="fa-chevron-up"></i></a></span></div>
+<!-- end-wrap -->
+<!-- End Document
+================================================== -->
+<link rel='stylesheet' id='animate-css-css'  href='http://razorbee.com/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=5.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://razorbee.com/wp-content/plugins/w-time-table/public/js/wb-tt.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://razorbee.com/wp-content/themes/easyweb/js/jquery.plugins.js'></script>
+<script type='text/javascript' src='http://razorbee.com/wp-content/themes/easyweb/js/jquery.masonry.min.js'></script>
+<script type='text/javascript' src='http://razorbee.com/wp-content/themes/easyweb/js/webnus-custom.js'></script>
+<script type='text/javascript' src='http://razorbee.com/wp-includes/js/wp-embed.min.js?ver=4.8'></script>
+<script type='text/javascript' src='http://razorbee.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.1.1'></script>
+</body>
+</html>
